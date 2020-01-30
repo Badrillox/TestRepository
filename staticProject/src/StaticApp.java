@@ -1,4 +1,4 @@
-public class MyWatch {
+public class MyMath {
 
     public static void main(String[] args) {
         //verwenden der statischen Konstante MyPI
