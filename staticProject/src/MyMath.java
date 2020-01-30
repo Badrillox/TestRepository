@@ -1,4 +1,4 @@
-public class MyWatch {
+public class MyMath {
 
     /*
     Wichtig!
