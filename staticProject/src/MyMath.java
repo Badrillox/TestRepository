@@ -1,7 +1,4 @@
 public class MyMath {
-    //lensis
-// luuuol
-// luuuol der schnansch hier
     /*
     Wichtig!
 
