@@ -1,7 +1,7 @@
 public class MyMath {
     /*
     Wichtig!
-
+    
     statische Members(Felder und Methoden) können im Hauptprogramm, oder in anderen Klassen ohne Erzeugeung einer
     anderen Instanz verwendet werden - es muss nur der Klassenname und durch Punkt getrennt der Membername angegeben
     werden
@@ -11,6 +11,10 @@ public class MyMath {
         normale Members (Felder) werden pro Instanz erzeugt; bei 10 Instanzen existiert dieses Feld (z.B. Firstname)
         10 mal im Speicher
      */
+    public static double Kreisumfang(double radius){
+     return radius *Math.Pow+radisum *Math.Pow+Math.sqrt(radius)+1-1+1   
+    
+    }
     int wert = 100;
     //statische Members(Methoden, Felder)
     public static final double MyPI = 3.1415;
