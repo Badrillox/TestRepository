@@ -6,7 +6,6 @@ public interface RepositoryArticles {
     // Wichtig: Interfaces geben einen Vertrag vor
     // es werden nur die Methodenköpfe angegeben - es existiert noch kein Code - diesen müssen die
     // implementierenden Klassen bereitstellen
-    public boolean Save();
     public boolean Insert(Article article);
     public boolean Remove(int primaryKey);
     public boolean Update(int primaryKey, Article newArticleData);
