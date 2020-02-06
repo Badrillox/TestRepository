@@ -1,8 +1,7 @@
 public class MyMath {
-
+    // Test conflict - remote
     /*
     Wichtig!
-
     statische Members(Felder und Methoden) können im Hauptprogramm, oder in anderen Klassen ohne Erzeugeung einer
     anderen Instanz verwendet werden - es muss nur der Klassenname und durch Punkt getrennt der Membername angegeben
     werden
