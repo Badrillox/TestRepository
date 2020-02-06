@@ -1,7 +1,5 @@
 public class MyMath {
-    // Test conflict - remote
-
-    // Test conflict - local
+    //teschten
 
     /*
     Wichtig!
