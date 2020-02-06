@@ -1,5 +1,5 @@
 public class MyMath {
-    //lensis
+    //Der David Seidl ist sehr FETT
 // luuuol
 // luuuol der schnansch hier
     /*
