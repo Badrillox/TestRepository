@@ -38,6 +38,7 @@ public class RepositoryArticlesDB implements RepositoryArticles{
 
     @Override
     public Article SearchByID(int primaryKey) {
+        System.out.println("Artikel aus DB - ID");
         return null;
     }
 }
