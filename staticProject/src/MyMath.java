@@ -1,6 +1,6 @@
 public class MyMath {
     //teschten teschten
-// luuuol
+// luuuol der schnansch hier
     /*
     Wichtig!
 
